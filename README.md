@@ -1,4 +1,4 @@
-# A javascript project showing 3D capability with Three.js
+# A React project showing 3D capability with Three.js
 
 ### How to run it
 
